@@ -19,7 +19,7 @@ hope you are doing well.''')
 print(a)
 print()
 
-#2). lower() - this function convert all the letterof a string to lwerr case
+#2). lower() - this function convert all the letter of a string to lower case
 #Syntax - str.lower(str_name)
 
 str3="LUCKY VISHWAKARMA"

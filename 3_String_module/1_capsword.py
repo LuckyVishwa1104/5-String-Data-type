@@ -1,4 +1,4 @@
-# The python string module contains various functions ND CONSTANT to interact with strings, to use string module function we need to import the String module.
+# The python string module contains various functions and CONSTANT to interact with strings, to use string module function we need to import the String module.
 
 #1). capsword() - this functions convert first character of each word of string to capital and convert remaining to small leters
 # Syntax:  string.capsword(str_name)

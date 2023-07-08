@@ -4,6 +4,7 @@ import string
 
 str1="banene"
 a=str1.maketrans("e","a")
+#print(str1)
 print(str1.translate(a))
 str2="aadjfaadjnad"
 b=str2.maketrans("aj","AJ")
