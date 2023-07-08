@@ -6,7 +6,7 @@
 %s - for string
 %d - for double
 %f - for float"""
-#syntax - "string %d strin %s string"%(str,int,flot,...)
+#syntax - "string %d string %s string"%(str,int,flot,...)
 print("Hello %s"%"Lucky")
 print("%s is circular. there are %d continent on earth"%("Earth",7))
 # assiging to variable
@@ -24,7 +24,7 @@ print(b)
 # syntax: "string {0} strnig {1} string".format(vvar1,var2,...)
 print("{0} is my country. All {1} are my brothers and sisters.".format("India","Indians"))
 # if we assign the index it will take by default
-print("Hello {} !!!".format("you"))
+print("Hello {} !!! {}".format("you","lucky"))
 # assigning to variable
 aa="{0} * {1} = {2}".format(2,5,10)
 print(aa)
@@ -35,7 +35,7 @@ print('''Hello {0}!!!
 How are {1}.
 Hope you are doing {2}.'''.format("you",'you','''Well!'''))
 
-#c). using f"_" - it allows formatting with vsrisble name, it is most oftenly used formatting method
+#c). using f"_" - it allows formatting with variable name, it is most oftenly used formatting method
 # syntax -  f"string {var1} string {var2} string {var3} ...."
 a="Yoyo!"
 print(f"Hello {a}")

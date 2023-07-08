@@ -1,7 +1,7 @@
 #15) ord() and chr() ufnction
 
 # ord() - this function is used to return the ascii caode of particular charector
-# Syntax:  ord("charector")
+# Syntax:  ord("charactor")
 str1="A"
 print(ord(str1))
 str2="a"
@@ -12,6 +12,7 @@ print(ord('9'))
 # using with multiline string
 print(ord('''t'''))
 print()
+
 # chr() - this function is used to return the charecter string from ascii value
 # Syntax:  chr("ASCII value")
 str1=65

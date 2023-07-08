@@ -1,4 +1,4 @@
-#7). str() - it convert other datatype variavle to string form
+#7). str() - it convert other datatype variable to string form
 # syntax:  str(data-type)
 # int, float, complex, bool, bin, oct,hex, list, tuple, dict, set - these datatype can be converted to string
 
@@ -23,3 +23,6 @@ print(str([1,2,3,4,5]))
 print(str((2,4,6,8)))
 print({2.2,3.3,4.4,2.2})
 print(str({1:1,2:4}))
+
+a=str([2,3,4,5])
+print(a[0])
