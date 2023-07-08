@@ -1,6 +1,7 @@
 #b] using range function - using range we can traverse a string with forloop and while loop also
 '''Syntax:  for i in range(len(string)):
                 print(string[i]) 
+                
             while i < len(string):
                 print(string[i])
                 i=i+1 '''

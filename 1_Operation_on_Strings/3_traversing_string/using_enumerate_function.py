@@ -16,4 +16,13 @@ for i in enumerate(str2):
 for i in enumerate("logan"):
     print(i)
 
+# example 4
+str5="""Heloo
+what's
+up!"""
+for i in enumerate(str5):
+    print(i)
 
+# example 5
+for ii in enumerate("Lucky"):
+    print(ii)

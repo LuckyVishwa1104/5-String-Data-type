@@ -1,7 +1,7 @@
-# String - String is simply a collection of character enclosed within inverted commas.
+# String - String are the fundamental data type, String is simply a collection of character enclosed within inverted commas.
 # charecters can be alphabate, numbers and special symbols
 
-#1] Creating string - string can created by combing multiple characters together
+#1] Creating string - string can created by combining multiple characters together
 '''Syntax:  string_name = "characters"  '''
 # string - valid variable and character - alphabate, numbers and symbols
 
@@ -41,21 +41,21 @@ str14='Harry Houddini'
 print(str13)
 print(str14)
 
-#b) Multi line string - string can be written in multiple line, it can expanee into paragraph, it is enclosed within single or double tripple quote
+#b) Multi line string - string can be written in multiple line, it can expand into paragraph, it is enclosed within single or double tripple quote
 str21="""India is my Country
 I love my country
 I am proude of its rich and varied heritate"""
 print(str21)
 str22="""Hello you
 Hope you are doing well
-Nice to meett you"""
+Nice to meet you"""
 print(str22)
 
 str23='''Ok 
 will
 see it'''
 print(str23)
-str24='''Selfish
-Cruel
-dirty'''
+str24='''happy
+holiday
+blossome'''
 print(str24)

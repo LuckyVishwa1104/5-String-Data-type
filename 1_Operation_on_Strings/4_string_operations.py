@@ -24,7 +24,7 @@ print(str6+str7)
 #2). repeatition: repeating a string multiple times to obtain the resultant string
 """Synatx: str*2,3,4,.... """
 # example 1
-str8='hello '
+str8='hello'
 str9=str8*2
 print(str9)
 

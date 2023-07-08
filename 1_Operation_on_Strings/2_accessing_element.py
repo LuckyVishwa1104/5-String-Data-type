@@ -16,7 +16,7 @@ print(str1[5])
 # there are multiple ways to access the elemnet of string.
 #1]. using positive index:
 '''Syntax :  string_name[index]  '''
-str2="hello you, how are you doing"
+str2="hello you, how are you doing!"
 print(str2[2])
 print(str2[5])
 # special symbols are also considered as characters of string
